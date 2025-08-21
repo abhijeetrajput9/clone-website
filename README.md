@@ -1,4 +1,4 @@
 # clone-website
 this clone website of amazon 
 <br>
-author- abhijeet singh rajput
+author- abhijeet singh rajput thakur 
